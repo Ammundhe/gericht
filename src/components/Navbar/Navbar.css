@@ -116,7 +116,7 @@
 
 @media screen and (max-width:650px) {
     .app__navbar{
-        padding: 1rem;
+        padding: 1rem;        
     }
     .app__navbar-links{
         display: none;
